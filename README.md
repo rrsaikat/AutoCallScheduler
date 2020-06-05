@@ -34,8 +34,9 @@ Multiple Number Selection | upcoming | _
 
 👤 **RRSaikat**
 
-- FaceBook: [@engr.rezwan](https://www.facebook.com/engr.rezwan)
+- Twitter: [@RsaikatR](https://twitter.com/RsaikatR?s=09)
 - LinkedIn: [rrsaikat](https://www.linkedin.com/in/rrsaikat/)
+- FaceBook: [@engr.rezwan](https://www.facebook.com/engr.rezwan)
 - Youtube: [Rezwanrehman](http://www.youtube.com/c/Rezwanrehman)
 - Blog: [blog.rrsaikat.com](https://blog.rrsaikat.com)
 
