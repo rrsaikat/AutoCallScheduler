@@ -27,6 +27,17 @@ Call History | upcoming | _
 Multiple Number Selection | upcoming | _
 
 
+## Author
+
+👤 **RRSaikat**
+
+- FaceBook: [@engr.rezwan](https://www.facebook.com/engr.rezwan)
+- LinkedIn: [rrsaikat](https://www.linkedin.com/in/rrsaikat/)
+- Youtube: [Rezwanrehman](http://www.youtube.com/c/Rezwanrehman)
+- Blog: [blog.rrsaikat.com](https://blog.rrsaikat.com)
+
+
+
 # License
       Copyright (c) 2020. RRsaikat
 
