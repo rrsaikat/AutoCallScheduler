@@ -11,3 +11,13 @@ An android app that can automatically dial a phone number. Basically it's a test
 <p align="center">
 <img src="https://raw.githubusercontent.com/rrsaikat/AutoCallScheduler/master/app/src/main/res/drawable/gitfullbanner.png"/>
 </p>
+
+# Usage
+To dial a number automatically user should inputs his desired number along with scheduled date time from pickers. After finishing remaining countdown of the scheduled timer a PHONE_CALL Intent activity starts. And that's how my app works.
+
+#### Statistics
+Feature | Status | Duration(hrs)
+--- | --- | ---
+Design | done | 5h
+Code | done | 8h
+Documentation | done | 2h
