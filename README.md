@@ -19,5 +19,6 @@ To dial a number automatically user should inputs his desired number along with 
 Feature | Status | Duration(hrs)
 --- | --- | ---
 Design | done | 5h
-Code | done | 8h
-Documentation | done | 2h
+Logic Implementation | done | 8h
+Code Reviews | 2 times | 3h
+Documentation | done | 1.5h
