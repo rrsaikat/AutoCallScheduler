@@ -4,7 +4,6 @@
   <a href="https://android-arsenal.com/api?level=16"><img alt="API" src="https://img.shields.io/badge/API-16%2B-brightgreen.svg?style=flat"/></a>
     <a href="https://github.com/rrsaikat"><img alt="API" src="https://badges.frapsoft.com/os/v1/open-source.png?v=103"/></a>
   <a href="https://github.com/rrsaikat"><img alt="Download" src="https://img.shields.io/badge/DownloadApk-v1.0.1-green.svg"/></a>
-  <a href="https://github.com/rrsaikat"><img alt="Total Downloads" src="https://img.shields.io/github/downloads/rrsaikat/AutoCallScheduler/total.svg"/></a>
 
 
 <p align="center">  
