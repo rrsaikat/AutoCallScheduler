@@ -9,5 +9,5 @@ An android app that can automatically dial a phone number. Basically it's a test
 </br>
 
 <p align="center">
-<img src="/previews/screenshot.png"/>
+<img src="https://raw.githubusercontent.com/rrsaikat/AutoCallScheduler/master/app/src/main/res/drawable/gitfullbanner.png"/>
 </p>
