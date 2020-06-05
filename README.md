@@ -1,2 +1,1 @@
-# AutoCallScheduler
-An android app that can automatically dial a phone number.
+<h1 align="center">AutoCallScheduler</h1>
