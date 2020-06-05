@@ -22,3 +22,5 @@ Design | done | 5h
 Logic Implementation | done | 8h
 Code Reviews | 2 times | 3h
 Documentation | done | 1.5h
+Thread Optimization | not done | _
+Call History | upcoming | _
