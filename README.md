@@ -7,7 +7,7 @@
 
 
 <p align="center">  
-An android app that can automatically dial a phone number. Basically it's a test base app of google's <b>#30daysOfKotlin</b> bootcamp. In this project there are many features of kotlin used in coding sections(e.g: when expressions, Data classes and equality, Visibility, Sealed classes, Lazy, Inline, Top level functions and parameters, Extension functions, Easier spans, Scoping out, etc). Students will find this project helpful for them in depth learning of kotlin programming in andropid development. Fell free to share and give star or fork this project. Happy coding :)
+An android app that can automatically dial a phone number within a given scheduled time. Basically it's a test base app of google's <b>#30daysOfKotlin</b> bootcamp. In this project there are many features of kotlin used in coding sections(e.g: when expressions, Data classes and equality, Visibility, Sealed classes, Lazy, Inline, Top level functions and parameters, Extension functions, Easier spans, Scoping out, etc). Students will find this project helpful for them in depth learning of kotlin programming in andropid development. Fell free to share and give star or fork this project. Happy coding :)
 </p>
 </br>
 
