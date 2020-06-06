@@ -16,7 +16,7 @@
 
 <resources>
     <string name="app_name">AutoCallScheduler</string>
-    <string name="app_details">Auto Call Scheduler is a test based app of google\'s #30daysOfKotlin bootcamp. In this project there are many features of kotlin used in coding sections(e.g: line functions, static declaration, dsl methods etc). Students will find this project helpful for them in depth learning of kotlin programming in andropid development. Fell free to share and give star or fork this project. Happy coding :) \n\nProject link: https://github.com/rrsaikat/AutoCallScheduler</string>
+    <string name="app_details">An android app that can automatically dial a phone number. Basically it\'s a test base app of google\'s #30daysOfKotlin bootcamp. In this project there are many features of kotlin used in coding sections(e.g: when expressions, Data classes and equality, Visibility, Sealed classes, Lazy, Inline, Top level functions and parameters, Extension functions, Easier spans, Scoping out, etc). Students will find this project helpful for them in depth learning of kotlin programming in andropid development. Fell free to share and give star or fork this project. Happy coding :) \n\nProject link: https://github.com/rrsaikat/AutoCallScheduler</string>
     <string name="title_activity_scrolling">ScrollingActivity</string>
     <string name="large_text">
         "Material is the metaphor.\n\n"
