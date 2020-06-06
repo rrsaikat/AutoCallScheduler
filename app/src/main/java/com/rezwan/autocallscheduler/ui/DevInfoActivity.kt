@@ -16,15 +16,33 @@
 
 package com.rezwan.autocallscheduler.ui
 
-import androidx.appcompat.app.AppCompatActivity
+import android.content.Intent
 import android.os.Bundle
 import com.rezwan.autocallscheduler.R
+import com.rezwan.autocallscheduler.utils.BrowserUtils
+import kotlinx.android.synthetic.main.activity_dev_info.*
 
 class DevInfoActivity : BaseActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_dev_info)
+        initToolbar()
+        initListener()
+        tvDevLink.setHtml("<a href=\"https://github.com/rrsaikat\">https://github.com/rrsaikat</a>")
+    }
+
+    private fun initListener() {
+        btnDev.setOnClickListener {
+            BrowserUtils.openBrowser(this, "https://github.com/rrsaikat")
+        }
+
+        btnProject.setOnClickListener {
+            BrowserUtils.openBrowser(this, "https://github.com/rrsaikat/AutoCallScheduler")
+        }
+    }
+
+    private fun initToolbar(){
         supportActionBar?.apply {
             title = "Details"
             elevation = 0f

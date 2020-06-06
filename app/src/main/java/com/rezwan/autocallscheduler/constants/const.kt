@@ -18,4 +18,6 @@ package com.rezwan.autocallscheduler.constants
 
 object const {
     const val ESSENTIAL_PERMISSIONS_REQUEST_CODE = 123
+    const val HTTPS = "https://"
+    const val HTTP = "http://"
 }

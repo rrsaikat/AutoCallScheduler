@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
+<?xml version="1.0" encoding="utf-8"?><!--
   ~       Copyright (c) 2020. RRsaikat
   ~
   ~       Licensed under the Apache License, Version 2.0 (the "License");
@@ -66,6 +65,7 @@
         android:layout_height="match_parent"
         android:layout_below="@id/layout_1"
         app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
         <androidx.constraintlayout.widget.ConstraintLayout
             android:id="@+id/layout_2"
             android:layout_width="match_parent"
@@ -75,16 +75,25 @@
 
             <TextView
                 android:id="@+id/textView3"
-                android:layout_width="0dp"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:alpha=".5"
                 android:text="Developer Info"
                 android:textAppearance="@style/TextAppearance.AppCompat.Title"
                 app:layout_constraintBottom_toTopOf="@+id/layout_owner"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.5"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnDev"
+                style="@style/Widget.MaterialComponents.Button.TextButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawableEnd="@drawable/ic_rrow_right"
+                android:text="More"
+                app:layout_constraintBottom_toBottomOf="@+id/textView3"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/textView3" />
 
             <androidx.constraintlayout.widget.ConstraintLayout
                 android:id="@+id/layout_owner"
@@ -131,15 +140,15 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Android Engineer"
-                        app:layout_constraintBottom_toTopOf="@+id/textView5"
+                        app:layout_constraintBottom_toTopOf="@+id/tvDevLink"
                         app:layout_constraintStart_toStartOf="@+id/textView4"
                         app:layout_constraintTop_toBottomOf="@+id/textView4" />
 
-                    <TextView
-                        android:id="@+id/textView5"
+                    <org.sufficientlysecure.htmltextview.HtmlTextView
+                        android:id="@+id/tvDevLink"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="https://www.githubcom/rrsaikat"
+                        android:text="https://www.github.com/rrsaikat"
                         android:textColor="#03A9F4"
                         app:layout_constraintBottom_toBottomOf="parent"
                         app:layout_constraintStart_toStartOf="@+id/textView6"
@@ -156,10 +165,19 @@
                 android:text="Project Info"
                 android:textAppearance="@style/TextAppearance.AppCompat.Title"
                 app:layout_constraintBottom_toTopOf="@+id/tvProjectInfo"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.5"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/layout_owner" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnProject"
+                style="@style/Widget.MaterialComponents.Button.TextButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawableEnd="@drawable/ic_rrow_right"
+                android:text="More"
+                app:layout_constraintBottom_toBottomOf="@+id/textView7"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/textView7" />
 
             <TextView
                 android:id="@+id/tvProjectInfo"
@@ -167,7 +185,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
                 android:lineSpacingExtra="0dp"
-                android:text="@string/large_text"
+                android:text="@string/app_details"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintHorizontal_bias="0.5"

@@ -42,7 +42,7 @@ class ScheduleActivity : BaseActivity(), DatePicker.OnDateChangedListener,
 
     private fun setupToolbar() {
         supportActionBar?.apply {
-            title = ""
+            title = "Pick Date & Time"
             elevation = 0f
             setDisplayHomeAsUpEnabled(true)
         }
