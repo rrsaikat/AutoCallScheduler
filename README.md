@@ -3,7 +3,11 @@
   <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"/></a>
   <a href="https://android-arsenal.com/api?level=16"><img alt="API" src="https://img.shields.io/badge/API-16%2B-brightgreen.svg?style=flat"/></a>
     <a href="https://github.com/rrsaikat"><img alt="API" src="https://badges.frapsoft.com/os/v1/open-source.png?v=103"/></a>
+   <a href=""><img alt="Github Downloads (total)" src="https://img.shields.io/github/downloads/rrsaikat/AutoCallScheduler/total.svg"/></a>
+   <a href=""><img alt="Github Downloads (monthly)" src="https://img.shields.io/github/downloads/rrsaikat/AutoCallScheduler/latest/total.svg"/></a>
   <a href="https://github.com/rrsaikat/AutoCallScheduler/releases/download/v1.0.2release/AutoCallScheduler_v1.0.2.apk"><img alt="Download" src="https://img.shields.io/badge/DownloadApk-v1.0.2-green.svg"/></a>
+  
+  
 
 
 <p align="center">  
