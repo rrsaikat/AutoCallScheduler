@@ -6,8 +6,8 @@
    <a href=""><img alt="Github Downloads (total)" src="https://img.shields.io/github/downloads/rrsaikat/AutoCallScheduler/total.svg"/></a>
    <a href=""><img alt="Github Downloads (monthly)" src="https://img.shields.io/github/downloads/rrsaikat/AutoCallScheduler/latest/total.svg"/></a>
   <a href="https://github.com/rrsaikat/AutoCallScheduler/releases/download/v1.0.2release/AutoCallScheduler_v1.0.2.apk"><img alt="Download" src="https://img.shields.io/badge/DownloadApk-v1.0.2-green.svg"/></a>
-  <a href="https://github.com/rrsaikat/AutoCallScheduler/graphs/traffic"><img alt="Total Cones" src="https://img.shields.io/badge/Clones-103-orange"/></a>
-    <a href="https://github.com/rrsaikat/AutoCallScheduler/graphs/traffic"><img alt="Total Cones" src="https://img.shields.io/badge/Views-300-brightgreen"/></a>
+  <a href="https://github.com/rrsaikat/AutoCallScheduler/graphs/traffic"><img alt="Total Cones" src="https://img.shields.io/badge/Clones-105-orange"/></a>
+    <a href="https://github.com/rrsaikat/AutoCallScheduler/graphs/traffic"><img alt="Total Cones" src="https://img.shields.io/badge/Views-307-brightgreen"/></a>
   
   
   
